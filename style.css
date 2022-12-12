@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+  background-color: black;
+}
+h1 {
+  font-style: "monospace";
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
